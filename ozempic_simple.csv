@@ -1,0 +1,10 @@
+age_group,bmi_category,months,percent_weight_loss
+20-40,obese,3,-8.2
+40-60,obese,3,-7.1
+60+,obese,3,-6.4
+20-40,overweight,6,-12.5
+40-60,overweight,6,-11.1
+60+,overweight,6,-9.5
+20-40,severe_obese,12,-15.8
+40-60,severe_obese,12,-14.2
+60+,severe_obese,12,-12.0
